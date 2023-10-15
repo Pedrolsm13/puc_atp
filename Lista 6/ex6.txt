@@ -1,0 +1,8 @@
+o dividendo 18
+numro divisor = 1
+numro divisor = 2
+numro divisor = 3
+numro divisor = 6
+numro divisor = 9
+numro divisor = 18
+o somatorio dos divisores = 39

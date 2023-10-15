@@ -1,0 +1,15 @@
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.csproj.AssemblyReference.cache
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.AssemblyInfoInputs.cache
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.AssemblyInfo.cs
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.csproj.CoreCompileInputs.cache
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\bin\Debug\net7.0\Trabalho Final.exe
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\bin\Debug\net7.0\Trabalho Final.deps.json
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\bin\Debug\net7.0\Trabalho Final.runtimeconfig.json
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\bin\Debug\net7.0\Trabalho Final.dll
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\bin\Debug\net7.0\Trabalho Final.pdb
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.dll
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\refint\Trabalho Final.dll
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.pdb
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\Trabalho Final.genruntimeconfig.cache
+D:\Google Drive\Cursos\ADS PUC\1º Periodo\ATP\Atividades\Trabalho Final\obj\Debug\net7.0\ref\Trabalho Final.dll
